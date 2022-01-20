@@ -8,7 +8,7 @@
 <?php
 for($i = 1;$i<=100;$i++) {
     echo '<br/>';
-
+    //Als het getal % = door 3&5 komt er HipHop te staan
     if(($i%3 === 0)&&($i%5 === 0)) 
     { echo 'HipHop';
         continue; 
