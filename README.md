@@ -1,2 +1,2 @@
-# IDD
+# Innovative Design Delft
 IDD opdracht
